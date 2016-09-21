@@ -1,10 +1,10 @@
 #!/bin/bash
 
-gcb() {
+gcob() {
 	git checkout -b "$@"
 }
 
-gc() {
+gco() {
 	git checkout "$@"
 }
 
